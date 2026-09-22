@@ -1,5 +1,6 @@
 # [[54, 4, 6]] Sparse Bivariate Bicycle Quantum LDPC Code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22904621.svg)](https://doi.org/10.5281/zenodo.22904621)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Algebraic generators, parity-check matrices, and verification engine for a **[[54, 4, 6]] Bivariate Bicycle (BB) Quantum Low-Density Parity-Check (Q-LDPC) code**.
