@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this quantum code construction in your research, please cite it as below."
+authors:
+  - family-names: "Brown"
+    given-names: "A."
+title: "A [[54, 4, 6]] Sparse Bivariate Bicycle Quantum LDPC Code with Weight-6 Checks"
+version: 1.0.0
+date-released: 2026-09-22
+url: "https://github.com/alibrown26538-ui/bivariate-bicycle-qldpc-54-4-6"
+keywords:
+  - quantum-computing
+  - quantum-error-correction
+  - q-ldpc
+  - bivariate-bicycle
+license: MIT

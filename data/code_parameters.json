@@ -1,0 +1,39 @@
+{
+  "code": "[[54, 4, 6]]",
+  "family": "Bivariate Bicycle CSS Q-LDPC",
+  "group_ring": "F_2[x, y] / <x^9 - 1, y^3 - 1>",
+  "n": 54,
+  "k": 4,
+  "d": 6,
+  "check_weight_X": 6,
+  "check_weight_Z": 6,
+  "poly_A": [
+    [
+      0,
+      0
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      8,
+      0
+    ]
+  ],
+  "poly_B": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      2
+    ]
+  ],
+  "date_discovered": "2026-09-22"
+}
